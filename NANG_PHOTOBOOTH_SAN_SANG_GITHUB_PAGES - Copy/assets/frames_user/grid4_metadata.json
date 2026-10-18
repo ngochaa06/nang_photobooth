@@ -1,0 +1,398 @@
+[
+  {
+    "id": "gridsq1",
+    "title": "Retro xanh 4 ô",
+    "category": "Retro",
+    "path": "/mnt/data/NANG_PHOTOBOOTH_V3_AUTOFRAMEFIX/assets/frames_user/gridsq1.png",
+    "size": [
+      1290,
+      1910
+    ],
+    "slots": [
+      [
+        89,
+        146,
+        530,
+        805
+      ],
+      [
+        678,
+        146,
+        531,
+        803
+      ],
+      [
+        90,
+        1028,
+        529,
+        789
+      ],
+      [
+        681,
+        1028,
+        528,
+        788
+      ]
+    ]
+  },
+  {
+    "id": "gridsq2",
+    "title": "Nữ tính nơ hồng",
+    "category": "Nữ tính",
+    "path": "/mnt/data/NANG_PHOTOBOOTH_V3_AUTOFRAMEFIX/assets/frames_user/gridsq2.png",
+    "size": [
+      1298,
+      1914
+    ],
+    "slots": [
+      [
+        653,
+        112,
+        578,
+        698
+      ],
+      [
+        69,
+        149,
+        546,
+        661
+      ],
+      [
+        48,
+        963,
+        567,
+        765
+      ],
+      [
+        686,
+        963,
+        546,
+        765
+      ]
+    ]
+  },
+  {
+    "id": "gridsq3",
+    "title": "Nữ tính ruy băng",
+    "category": "Nữ tính",
+    "path": "/mnt/data/NANG_PHOTOBOOTH_V3_AUTOFRAMEFIX/assets/frames_user/gridsq3.png",
+    "size": [
+      1292,
+      1894
+    ],
+    "slots": [
+      [
+        25,
+        228,
+        587,
+        694
+      ],
+      [
+        676,
+        228,
+        590,
+        695
+      ],
+      [
+        24,
+        988,
+        588,
+        778
+      ],
+      [
+        676,
+        988,
+        607,
+        729
+      ]
+    ]
+  },
+  {
+    "id": "gridsq4",
+    "title": "Retro kem hồng",
+    "category": "Retro",
+    "path": "/mnt/data/NANG_PHOTOBOOTH_V3_AUTOFRAMEFIX/assets/frames_user/gridsq4.png",
+    "size": [
+      1301,
+      1936
+    ],
+    "slots": [
+      [
+        24,
+        50,
+        612,
+        909
+      ],
+      [
+        663,
+        98,
+        620,
+        874
+      ],
+      [
+        88,
+        986,
+        548,
+        833
+      ],
+      [
+        663,
+        986,
+        626,
+        896
+      ]
+    ]
+  },
+  {
+    "id": "gridsq5",
+    "title": "Retro tem thư",
+    "category": "Retro",
+    "path": "/mnt/data/NANG_PHOTOBOOTH_V3_AUTOFRAMEFIX/assets/frames_user/gridsq5.png",
+    "size": [
+      1326,
+      1957
+    ],
+    "slots": [
+      [
+        66,
+        205,
+        564,
+        713
+      ],
+      [
+        693,
+        205,
+        566,
+        713
+      ],
+      [
+        50,
+        978,
+        580,
+        748
+      ],
+      [
+        693,
+        979,
+        566,
+        745
+      ]
+    ]
+  },
+  {
+    "id": "retrogrid1",
+    "title": "Retro thư tình",
+    "category": "Retro",
+    "path": "/mnt/data/NANG_PHOTOBOOTH_WEB_CHUAN_HOA_4_O_VUONG/assets/frames_user/retrogrid1.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "slots": [
+      [
+        95,
+        167,
+        401,
+        530
+      ],
+      [
+        534,
+        167,
+        403,
+        529
+      ],
+      [
+        96,
+        740,
+        400,
+        531
+      ],
+      [
+        534,
+        739,
+        404,
+        532
+      ]
+    ]
+  },
+  {
+    "id": "retrogrid2",
+    "title": "Retro bưu thiếp",
+    "category": "Retro",
+    "path": "/mnt/data/NANG_PHOTOBOOTH_WEB_CHUAN_HOA_4_O_VUONG/assets/frames_user/retrogrid2.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "slots": [
+      [
+        96,
+        132,
+        392,
+        582
+      ],
+      [
+        535,
+        132,
+        393,
+        583
+      ],
+      [
+        96,
+        763,
+        392,
+        578
+      ],
+      [
+        535,
+        763,
+        393,
+        578
+      ]
+    ]
+  },
+  {
+    "id": "retrogrid3",
+    "title": "Retro film đen",
+    "category": "Retro",
+    "path": "/mnt/data/NANG_PHOTOBOOTH_WEB_CHUAN_HOA_4_O_VUONG/assets/frames_user/retrogrid3.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "slots": [
+      [
+        112,
+        280,
+        385,
+        519
+      ],
+      [
+        527,
+        280,
+        384,
+        519
+      ],
+      [
+        114,
+        825,
+        383,
+        521
+      ],
+      [
+        528,
+        825,
+        383,
+        520
+      ]
+    ]
+  },
+  {
+    "id": "retrogrid4",
+    "title": "Retro film vàng",
+    "category": "Retro",
+    "path": "/mnt/data/NANG_PHOTOBOOTH_WEB_CHUAN_HOA_4_O_VUONG/assets/frames_user/retrogrid4.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "slots": [
+      [
+        115,
+        255,
+        384,
+        549
+      ],
+      [
+        527,
+        255,
+        384,
+        549
+      ],
+      [
+        117,
+        831,
+        382,
+        581
+      ],
+      [
+        528,
+        831,
+        382,
+        581
+      ]
+    ]
+  },
+  {
+    "id": "retrogrid5",
+    "title": "Retro film đỏ",
+    "category": "Retro",
+    "path": "/mnt/data/NANG_PHOTOBOOTH_WEB_CHUAN_HOA_4_O_VUONG/assets/frames_user/retrogrid5.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "slots": [
+      [
+        104,
+        276,
+        396,
+        514
+      ],
+      [
+        526,
+        276,
+        398,
+        514
+      ],
+      [
+        104,
+        817,
+        396,
+        531
+      ],
+      [
+        526,
+        817,
+        398,
+        531
+      ]
+    ]
+  },
+  {
+    "id": "retrogrid6",
+    "title": "Retro film xanh",
+    "category": "Retro",
+    "path": "/mnt/data/NANG_PHOTOBOOTH_WEB_CHUAN_HOA_4_O_VUONG/assets/frames_user/retrogrid6.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "slots": [
+      [
+        113,
+        260,
+        384,
+        509
+      ],
+      [
+        528,
+        260,
+        385,
+        509
+      ],
+      [
+        112,
+        798,
+        385,
+        541
+      ],
+      [
+        528,
+        798,
+        385,
+        541
+      ]
+    ]
+  }
+]

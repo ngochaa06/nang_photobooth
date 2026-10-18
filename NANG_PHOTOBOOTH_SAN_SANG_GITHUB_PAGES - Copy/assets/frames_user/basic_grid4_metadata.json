@@ -1,0 +1,182 @@
+[
+  {
+    "id": "basicgrid1",
+    "title": "Basic đen",
+    "category": "Basic",
+    "path": "/mnt/data/NANG_PHOTOBOOTH_WEB_BASIC_GRID4_UPDATED/assets/frames_user/basicgrid1.png",
+    "size": [
+      1545,
+      2000
+    ],
+    "slots": [
+      [
+        202,
+        148,
+        553,
+        840
+      ],
+      [
+        787,
+        148,
+        553,
+        840
+      ],
+      [
+        202,
+        1016,
+        553,
+        838
+      ],
+      [
+        787,
+        1016,
+        553,
+        838
+      ]
+    ]
+  },
+  {
+    "id": "basicgrid2",
+    "title": "Basic xám",
+    "category": "Basic",
+    "path": "/mnt/data/NANG_PHOTOBOOTH_WEB_BASIC_GRID4_UPDATED/assets/frames_user/basicgrid2.png",
+    "size": [
+      1545,
+      2000
+    ],
+    "slots": [
+      [
+        203,
+        147,
+        552,
+        841
+      ],
+      [
+        788,
+        147,
+        551,
+        841
+      ],
+      [
+        203,
+        1016,
+        552,
+        838
+      ],
+      [
+        788,
+        1016,
+        551,
+        838
+      ]
+    ]
+  },
+  {
+    "id": "basicgrid3",
+    "title": "Basic hồng nhạt",
+    "category": "Basic",
+    "path": "/mnt/data/NANG_PHOTOBOOTH_WEB_BASIC_GRID4_UPDATED/assets/frames_user/basicgrid3.png",
+    "size": [
+      1545,
+      2000
+    ],
+    "slots": [
+      [
+        203,
+        146,
+        552,
+        841
+      ],
+      [
+        788,
+        146,
+        551,
+        842
+      ],
+      [
+        203,
+        1016,
+        552,
+        838
+      ],
+      [
+        788,
+        1016,
+        551,
+        838
+      ]
+    ]
+  },
+  {
+    "id": "basicgrid4",
+    "title": "Basic hồng",
+    "category": "Basic",
+    "path": "/mnt/data/NANG_PHOTOBOOTH_WEB_BASIC_GRID4_UPDATED/assets/frames_user/basicgrid4.png",
+    "size": [
+      1545,
+      2000
+    ],
+    "slots": [
+      [
+        215,
+        165,
+        540,
+        823
+      ],
+      [
+        788,
+        165,
+        539,
+        823
+      ],
+      [
+        215,
+        1015,
+        540,
+        820
+      ],
+      [
+        788,
+        1016,
+        539,
+        819
+      ]
+    ]
+  },
+  {
+    "id": "basicgrid5",
+    "title": "Basic xanh",
+    "category": "Basic",
+    "path": "/mnt/data/NANG_PHOTOBOOTH_WEB_BASIC_GRID4_UPDATED/assets/frames_user/basicgrid5.png",
+    "size": [
+      1545,
+      2000
+    ],
+    "slots": [
+      [
+        203,
+        147,
+        551,
+        840
+      ],
+      [
+        789,
+        147,
+        551,
+        840
+      ],
+      [
+        203,
+        1017,
+        551,
+        836
+      ],
+      [
+        789,
+        1017,
+        551,
+        836
+      ]
+    ]
+  }
+]
